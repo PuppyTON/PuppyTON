@@ -119,6 +119,7 @@ button {
 .buy-container ol {
     color: var(--color-white);
     text-align: justify;
+    margin-bottom: 3rem;
 }
 .buy-container ol li {
     margin-bottom: 1rem;
