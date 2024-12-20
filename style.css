@@ -59,9 +59,9 @@ a {
 }
 .social-last {
     margin-top: 2rem;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+}
+.social-last p {
+    margin-bottom: 1rem;
 }
 .intro h2 {
     margin-bottom: 1rem;
